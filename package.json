@@ -51,6 +51,7 @@
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
     "redux-form": "^8.1.0",
+    "react-scripts": "2.1.5",
     "redux-localstorage": "^0.4.1",
     "redux-persist": "^5.10.0",
     "redux-saga": "^1.0.1",
@@ -65,7 +66,7 @@
     "gh-pages": "^2.0.1",
     "jest-expo": "^32.0.0",
     "node-sass": "^4.11.0",
-    "react-scripts": "2.1.5",
+    
     "sass-loader": "^6.0.6"
   }
 }
