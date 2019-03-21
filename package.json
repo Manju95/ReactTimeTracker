@@ -55,12 +55,13 @@
     "redux-localstorage": "^0.4.1",
     "redux-persist": "^5.10.0",
     "redux-saga": "^1.0.1",
+    "eslint-plugin-import": "^2.14.0",
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
     "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.14.0",
+    
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.0",
     "gh-pages": "^2.0.1",
